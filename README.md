@@ -1,3 +1,4 @@
+[!MasterHead](src="image.jpg")
 <h1 align="center">Hi 👋, I'm Ayush vikram</h1>
 <h3 align="center">A full stack developer from India</h3>
 <img align="right" alt="Coding" Width="400" src="https://media.gifdb.com/programming-window-coding-hello-world-nezfipv95sibsnvo.gif"
