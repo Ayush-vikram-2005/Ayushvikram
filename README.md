@@ -1,4 +1,4 @@
-[!MasterHead](src="image.jpg")
+[!MasterHead]("https://imgs.search.brave.com/MKkwSylZXe6EAQEWDpA3RzEv7PO-HUIhARUsBHdjRAE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzE4L2Y1/LzIxLzE4ZjUyMTA4/MmY2MDc3YjI4NDdm/NWE1MGI4Y2QwZjE2/LmpwZw")
 <h1 align="center">Hi 👋, I'm Ayush vikram</h1>
 <h3 align="center">A full stack developer from India</h3>
 <img align="right" alt="Coding" Width="400" src="https://media.gifdb.com/programming-window-coding-hello-world-nezfipv95sibsnvo.gif"
