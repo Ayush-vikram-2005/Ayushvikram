@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ayush-vikram-2005/Ayushvikram/blob/main/image.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Ayush vikram</h1>
 <h3 align="center">A full stack developer from India</h3>
 <img align="right" alt="Coding" Width="400" src="https://github.com/user-attachments/assets/f86acfa3-a194-42a9-900e-e551dae7d947" />
